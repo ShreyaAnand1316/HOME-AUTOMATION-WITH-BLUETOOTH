@@ -52,3 +52,5 @@ USES AND APPLICATIONS :
 
 
 #OUTPUT
+
+<img width="590" alt="Image" src="https://github.com/user-attachments/assets/1049ce04-0f14-45b0-aeca-946c64e3af39" />
